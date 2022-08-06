@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    background: blue;
+}
+
+.content-div {
+    background: green;
+}
+
+#div01 {
+    background: purple;
+}
+
+#div02 {
+    background: pink;
+}
+
+#div03 {
+    background: red;
+}
+
+#div04 {
+    background: orange;
+}
+
+#div05 {
+    background: gray;
+}
+
+#div06 {
+    background: turquoise;
+}
