@@ -10,8 +10,8 @@ html {
 
 .main {
     background-color: lightblue;
-    /* position: fixed; */
-    display: grid;
+    position: fixed;
+    display: flex;
     /* width: 100%;
     height: 100%; */
 
@@ -19,14 +19,15 @@ html {
     left: 0;
     top: 0;
     right: 0;
-    padding: 10rem;
+    /* padding: 10rem; */
+    /* justify-content: space-around; */
 }
 
 .content-div {
     background: green;
-    width: 15rem;
-    height: 15rem;
-    margin: 5rem;
+    width: 30rem;
+    height: 30rem;
+    margin: 1rem;
 }
 
 #div01 {
